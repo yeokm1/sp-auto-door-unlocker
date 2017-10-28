@@ -34,7 +34,7 @@ A 2 seconds delay is imposed on the initial power on of the device to let the se
 
 A Fritzing drawing indicates the connections on the breadboard. Note this is just a guide of connection and not representative of the actual physical layout.
 
-The button circuit on the remote requires a 12V input to engage. I had to use 2 transistors to switch the input as the output pin on both the Microview and PIR sensor do not seem to be able to saturate the transistor. Engaging the button requires an opposite signal, output LOW to "press" the button and vice-versa.
+The button circuit on the remote requires a 12V input to engage. I had to use 2 transistors to switch the input as the output pin on both the Microview do not seem to be able to saturate the transistor. Engaging the button requires an opposite signal, output LOW to "press" the button and vice-versa.
 
 ## Parts required
 1. MV1: [Microview module](https://www.sparkfun.com/products/12923)
